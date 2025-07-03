@@ -1,1 +1,1 @@
-# Naive-Bayes_diabetes_prediction
+# Naive-Bayes-Classifier_diabetes_prediction
