@@ -12,7 +12,7 @@ often doesn't hold in real data, but still works surprisingly well in practice.
 
 Bayes’ Theorem describes the probability of a class 𝐶 given a set of features X = ( x1 , x2 ,..., xn ):
 
-                                                    P(C∣X) = P(X∣C) ⋅ P(C) / P(X
+                                            P(C∣X) = P(X∣C) ⋅ P(C) / P(X
 
                   Where:
 
